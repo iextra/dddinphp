@@ -1,2 +1,3 @@
-# dddinphp
-Перевод книги DDD in PHP на русский язык
+## Перевод книги DDD in PHP на русский язык
+[Книга](https://leanpub.com/ddd-in-php)
+
